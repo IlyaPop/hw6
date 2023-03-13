@@ -78,6 +78,7 @@ public class Hw5_2p {
         int x11 = 2;
         int y11 = 1;
 
+
         boolean result11 = (x11 * y11 != 0 || (y11 < x11));
         System.out.println("д) " + result11);
 
