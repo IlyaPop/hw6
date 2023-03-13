@@ -14,6 +14,7 @@ public class Hw5_3p {
         boolean result4 = !a1 || b1;
         boolean result5 = a1 || !b1;
 
+        
         boolean a2 = false;
         boolean b2 = false;
         boolean result6 = !(a2 && b2);
